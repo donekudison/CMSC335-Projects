@@ -1,6 +1,6 @@
 /*
  * File: Torus.java
- * Author: Elvis Edinge
+ * Author: Elvis Ed
  * Date: 01/25/2020
  * Description:  This shape program allows a user to construct either a TwoDimensional or ThreeDimensional Shape subclasses.
  */
